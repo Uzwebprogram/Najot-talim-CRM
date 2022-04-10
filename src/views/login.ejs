@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/64d58efce2.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="app.css" />
+    <title>Sign in & Sign up Form</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="forms-container">
+        <div class="signin-signup">
+          <form action="/login" class="sign-in-form" method="POST" enctype="application/x-www-form-urlencoded">
+            <h2 class="title">Sign in</h2>
+            <div class="input-field">
+              <i class="fas fa-user"></i>
+              <input name="name" type="text" placeholder="Username" />
+            </div>
+            <div class="input-field">
+              <i class="fas fa-lock"></i>
+              <input name="password" type="password" placeholder="Password" />
+            </div>
+            <button type="submit" value="Login" class="btn solid">LOGIN</button>
+            <p class="social-text">Ijtimoiy tarmoqlarda berib borilayotgan xabar va foydali ma’lumotlarni saytimizda ham kuzatishingiz mumkin!</p>
+            <!-- <div class="social-media">
+              <a href="#" class="social-icon">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+              <a href="#" class="social-icon">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a href="#" class="social-icon">
+                <i class="fab fa-google"></i>
+              </a>
+              <a href="#" class="social-icon">
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+            </div> -->
+          </form>
+        
+        </div>
+      </div>
+
+      <div class="panels-container">
+        <div class="panel left-panel">
+          <div class="content">
+            <h3>Hush kelbsiz !</h3>
+            <p>
+Najot ta'lim CRM tizimga hush kelibsiz !
+Bizda o’z sohasining mutaxassislari faoliyat olib borishadi. Sizni o’z safimizda ko’rishdan mamnun bo’lamiz.
+
+            </p>
+          </div>
+          <img src="http://localhost:9000/image/Najot_Talim-01.png" class="image" alt="" />
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
