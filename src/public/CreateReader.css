@@ -936,4 +936,7 @@ label{
   .teacher-list-item-static-padding{
     font-size: 8px;
   }
+  .item-card-list-heading{
+    font-size: 20px;
+  }
 }
