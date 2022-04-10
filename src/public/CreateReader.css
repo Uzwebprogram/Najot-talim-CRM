@@ -862,3 +862,78 @@ label{
   width: 40px;
   height: 40px;
 }
+@media only screen and (max-width : 707px){
+  .teacher-list-item-static-padding{
+    font-size: 14px;
+  }
+  .teacher-list-item{
+    flex-direction: column;
+    text-align: right;
+  }
+  .form{
+    position: relative;
+  }
+  .form-top{
+    flex-direction: column;
+    text-align: center;
+  }
+  .form-file{
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-left: 230px;
+  }
+.form-top-inputer{
+  max-width: 100%;
+}
+.form-button{
+  width: 300px;
+  padding-right: 200px;
+}
+}
+@media only screen and (max-width : 501px){
+  .teacher-list-item-static-padding{
+    font-size: 14px;
+  }
+  .teacher-list-item{
+    flex-direction: column;
+    text-align: right;
+  }
+  .form{
+    position: relative;
+  }
+  .form-top{
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .form-file{
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-left: 140px;
+  }
+  .form-top {
+    width: 100%;
+  }
+.form-top-inputer{
+  max-width: 100%;
+}
+.form-button{
+  padding-left: 30px;
+  padding-right: 10px;
+  max-width: 250px;
+}
+
+}
+@media only screen and (max-width : 436px){
+  .form-file{
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-left: 90px;
+  }
+  .form-button{
+    padding-left: 80px;
+  }
+  .teacher-list-item-static-padding{
+    font-size: 8px;
+  }
+}

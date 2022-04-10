@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Eshmat",
-        "password": "eshmat",
+        "name": "Saidbek",
+        "password": "2004sa",
         "role": "admin"
     },
     {
@@ -38,7 +38,6 @@
         "AvatarUser": "http://localhost:9000/uploads/photo_2022-04-07_13-59-14.jpg",
         "tel": "+998915039390"
     },
-
     {
         "id": 5,
         "name": "Saidbek",
@@ -191,5 +190,16 @@
         "GroupName": "N30",
         "role": "student",
         "AvatarUser": "http://localhost:9000/uploads/omina.jpg"
+    },
+    {
+        "id": 19,
+        "name": "eshmat",
+        "age": "2022-04-27",
+        "surname": "toshmatov",
+        "role": "teacher",
+        "cursname": "Moushin-grafika",
+        "password": "0304",
+        "AvatarUser": "http://localhost:9000/uploads/photo_2022-04-04_23-14-43.jpg",
+        "tel": "+998915039390"
     }
 ]

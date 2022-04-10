@@ -51,5 +51,13 @@
         "TeacherName": "Anvarbek",
         "gruopDate": "2022-04-28",
         "AvatarUser": "http://localhost:9000/uploads/kurs.jpg"
+    },
+    {
+        "id": 7,
+        "GroupName": "27-guruh",
+        "KursName": "Moushin-grafika",
+        "TeacherName": "eshmat",
+        "gruopDate": "3232-03-24",
+        "AvatarUser": "http://localhost:9000/uploads/photo_2022-04-04_23-14-43.jpg"
     }
 ]
