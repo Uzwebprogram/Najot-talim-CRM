@@ -6,7 +6,7 @@
         "standart": "standart",
         "TeacherName": "Saidbek",
         "gruopDate": "2021-03-04",
-        "AvatarUser": "http://localhost:9000/uploads/photo_2021-08-12_15-39-52.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/photo_2021-08-12_15-39-52.jpg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "standart": "standart",
         "TeacherName": "Baxtiyor",
         "gruopDate": "2021-0-08",
-        "AvatarUser": "http://localhost:9000/uploads/Web-dasturlash.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/Web-dasturlash.jpg"
     },
     {
         "id": 3,
@@ -23,7 +23,7 @@
         "KursName": "web-dizayn",
         "TeacherName": "Bobur",
         "gruopDate": "2022-03-04",
-        "AvatarUser": "http://localhost:9000/uploads/Web-dasturlash.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/Web-dasturlash.jpg"
     },
     {
         "id": 4,
@@ -32,7 +32,7 @@
         "standart": "standart",
         "TeacherName": "Ulug'bek",
         "gruopDate": "2021-04-09",
-        "AvatarUser": "http://localhost:9000/uploads/Web-dasturlash.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/Web-dasturlash.jpg"
     },
     {
         "id": 5,
@@ -41,7 +41,7 @@
         "Bootcamp": "Bootcamp",
         "TeacherName": "Azizbek",
         "gruopDate": "2022-12-23",
-        "AvatarUser": "http://localhost:9000/uploads/kurs.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/kurs.jpg"
     },
     {
         "id": 6,
@@ -50,7 +50,7 @@
         "Bootcamp": "Bootcamp",
         "TeacherName": "Anvarbek",
         "gruopDate": "2022-04-28",
-        "AvatarUser": "http://localhost:9000/uploads/kurs.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/kurs.jpg"
     },
     {
         "id": 7,
@@ -58,6 +58,6 @@
         "KursName": "Moushin-grafika",
         "TeacherName": "eshmat",
         "gruopDate": "3232-03-24",
-        "AvatarUser": "http://localhost:9000/uploads/photo_2022-04-04_23-14-43.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/photo_2022-04-04_23-14-43.jpg"
     }
 ]

@@ -13,7 +13,7 @@
         "role": "teacher",
         "cursname": "Web-dasturlash",
         "password": "0102",
-        "AvatarUser": "http://localhost:9000/uploads/photo_2021-06-15_11-16-54.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/photo_2021-06-15_11-16-54.jpg",
         "tel": "+998915039390"
     },
     {
@@ -24,7 +24,7 @@
         "role": "teacher",
         "cursname": "Web-dasturlash",
         "password": "0607",
-        "AvatarUser": "http://localhost:9000/uploads/ulugbek.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/ulugbek.jpg",
         "tel": "+9989113456"
     },
     {
@@ -35,7 +35,7 @@
         "role": "teacher",
         "cursname": "Smm",
         "password": "0303",
-        "AvatarUser": "http://localhost:9000/uploads/photo_2022-04-07_13-59-14.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/photo_2022-04-07_13-59-14.jpg",
         "tel": "+998915039390"
     },
     {
@@ -48,7 +48,7 @@
         "telefon": "+998915039390",
         "GroupName": "N14",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/Atambayev-saidbek.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/Atambayev-saidbek.jpg"
     },
     {
         "id": 6,
@@ -58,7 +58,7 @@
         "role": "teacher",
         "cursname": "web-dizayn",
         "password": "0104",
-        "AvatarUser": "http://localhost:9000/uploads/Bobur.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/Bobur.jpg",
         "tel": "+998915039390"
     },
     {
@@ -71,7 +71,7 @@
         "telefon": "+998915039390",
         "GroupName": "N16",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/customer01.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/customer01.jpg"
     },
     {
         "id": 9,
@@ -83,7 +83,7 @@
         "telefon": "+998910909032",
         "GroupName": "N14",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/odilbek.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/odilbek.jpg"
     },
     {
         "id": 10,
@@ -95,7 +95,7 @@
         "telefon": "+998910909032",
         "GroupName": "N14",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/omina.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/omina.jpg"
     },
     {
         "id": 11,
@@ -105,7 +105,7 @@
         "role": "teacher",
         "cursname": "Grafik-dizayn",
         "password": "0910",
-        "AvatarUser": "http://localhost:9000/uploads/customer02.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/customer02.jpg",
         "tel": "+998915039390"
     },
     {
@@ -118,7 +118,7 @@
         "telefon": "+998910909032",
         "GroupName": "N30",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/customer02.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/customer02.jpg"
     },
     {
         "id": 13,
@@ -130,7 +130,7 @@
         "telefon": "+998910909032",
         "GroupName": "N16",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/customer01.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/customer01.jpg"
     },
     {
         "id": 14,
@@ -140,7 +140,7 @@
         "role": "teacher",
         "cursname": "Moushin-grafika",
         "password": "1313",
-        "AvatarUser": "http://localhost:9000/uploads/customer01.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/customer01.jpg",
         "tel": "+998915039390"
     },
     {
@@ -153,7 +153,7 @@
         "telefon": "+998910909032",
         "GroupName": "N30",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/customer02.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/customer02.jpg"
     },
     {
         "id": 16,
@@ -165,7 +165,7 @@
         "telefon": "+998910909032",
         "GroupName": "N15",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/adham.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/adham.jpg"
     },
     {
         "id": 17,
@@ -177,7 +177,7 @@
         "telefon": "+998910909032",
         "GroupName": "N15",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/shaxboz.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/shaxboz.jpg"
     },
     {
         "id": 18,
@@ -189,7 +189,7 @@
         "telefon": "+998910909032",
         "GroupName": "N30",
         "role": "student",
-        "AvatarUser": "http://localhost:9000/uploads/omina.jpg"
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/omina.jpg"
     },
     {
         "id": 19,
@@ -199,7 +199,7 @@
         "role": "teacher",
         "cursname": "Moushin-grafika",
         "password": "0304",
-        "AvatarUser": "http://localhost:9000/uploads/photo_2022-04-04_23-14-43.jpg",
+        "AvatarUser": "https://crm-najot.herokuapp.com/uploads/photo_2022-04-04_23-14-43.jpg",
         "tel": "+998915039390"
     }
 ]

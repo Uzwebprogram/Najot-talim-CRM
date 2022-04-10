@@ -5,7 +5,7 @@
         "standart": "standart",
         "des": "Standart kursda Full stack yo'nalishida o'qiysiz 9 oy haftada 3 marta 2 soatdan dars ",
         "price": "700 ming so'm",
-        "imageLogo": "http://localhost:9000/image/web-code.svg"
+        "imageLogo": "https://crm-najot.herokuapp.com/image/web-code.svg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "Bootcamp": "Bootcamp",
         "des": "Bootcamp kursda Front end yoki Back end ni birini tanlaysiz o'quv jarayoni 7 oy haftada 5 kun 5 soatdan ",
         "price": "2 mln 300 ming so'm",
-        "imageLogo": "http://localhost:9000/image/web-code.svg"
+        "imageLogo": "https://crm-najot.herokuapp.com/image/web-code.svg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "Bootcamp": "Bootcamp",
         "des": "web dizayn Bootcamp kursda  o'quv jarayoni 6 oy haftada 5 kun 5 soatdan ",
         "price": "1 mln 300 ming so'm",
-        "imageLogo": "http://localhost:9000/image/paint.svg"
+        "imageLogo": "https://crm-najot.herokuapp.com/image/paint.svg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "standart": "standart",
         "des": "Smm Standart kursda  o'quv jarayoni 6 oy haftada 5 kun 5 soatdan",
         "price": "800 min so'm",
-        "imageLogo": "http://localhost:9000/uploads/messenger.PNG"
+        "imageLogo": "https://crm-najot.herokuapp.com/uploads/messenger.PNG"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "standart": "standart",
         "des": "Grafik dizayn Standart kursda  o'quv jarayoni 6 oy haftada 5 kun 5 soatdan",
         "price": "1 mln 200 ming",
-        "imageLogo": "http://localhost:9000/uploads/Image.e699403574e518904e4c.png"
+        "imageLogo": "https://crm-najot.herokuapp.com/uploads/Image.e699403574e518904e4c.png"
     },
     {
         "id": 6,
@@ -45,6 +45,6 @@
         "standart": "standart",
         "des": "Moushin grafika Bootcamp kursda  o'quv jarayoni 6 oy haftada 5 kun 5 soatdan",
         "price": "1 mln 500 ming",
-        "imageLogo": "http://localhost:9000/uploads/MainBackground.ac6efbb24b5529e0c226.png"
+        "imageLogo": "https://crm-najot.herokuapp.com/uploads/MainBackground.ac6efbb24b5529e0c226.png"
     }
 ]
