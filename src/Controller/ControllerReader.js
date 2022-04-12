@@ -35,7 +35,7 @@ const POST = (req, res) => {
       telefon,
       GroupName,
       role  : "student" ,
-      AvatarUser: `https://crm-najot.herokuapp.com/` + filename,
+      AvatarUser: `https://crm-najot.herokuapp.com/uploads/` + filename,
     });
   
     write("users.json", StudentFilter);

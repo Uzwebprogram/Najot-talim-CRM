@@ -50,7 +50,7 @@ const POST = (req, res) => {
     role: "teacher",
     cursname,
     password,
-    AvatarUser: `https://crm-najot.herokuapp.com/` + filename,
+    AvatarUser: `https://crm-najot.herokuapp.com/uploads/` + filename,
     tel,
   });
   write("users.json", TeacherFilter);
