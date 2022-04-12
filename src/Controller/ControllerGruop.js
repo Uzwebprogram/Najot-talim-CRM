@@ -37,7 +37,7 @@ const POST = (req, res) => {
     standart,
     TeacherName,
     gruopDate,
-    AvatarUser: `http://localhost:9000/uploads/` + filename,
+    AvatarUser: `https://crm-najot.herokuapp.com/` + filename,
   });
 
   write("group.json", GruopFilter);

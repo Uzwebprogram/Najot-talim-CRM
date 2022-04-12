@@ -25,7 +25,7 @@ const POST = (req ,res) =>{
     const { filename } = req.file
     
     const courser = read("course.json")
-    courser.push({ id: courser.length + 1, course ,Bootcamp , standart ,des  , price , imageLogo : `http://localhost:9000/uploads/` + filename });
+    courser.push({ id: courser.length + 1, course ,Bootcamp , standart ,des  , price , imageLogo : `https://crm-najot.herokuapp.com/` + filename });
     write('course.json', courser)
     res.redirect("/Crouser")
     console.log(req.file);
